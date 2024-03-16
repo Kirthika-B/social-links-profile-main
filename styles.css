@@ -17,7 +17,7 @@ body {
 .container {
   background-color: hsl(0, 0%, 12%);
   border-radius: 16px;
-  padding: 30px;
+  padding: 32px;
   width: 320px;
   text-align: center;
 }
