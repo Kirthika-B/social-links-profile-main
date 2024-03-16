@@ -15,7 +15,7 @@ body {
 .container {
   background-color: hsl(0, 0%, 12%);
   border-radius: 16px;
-  padding: 50px;
+  padding: 30px;
   width: 375px;
   text-align: center;
 }
